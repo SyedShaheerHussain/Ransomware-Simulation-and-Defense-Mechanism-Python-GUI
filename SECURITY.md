@@ -19,8 +19,7 @@ Please send an email with the following details:
 * Potential impact
 * Suggested remediation (if known)
 * Screenshots or logs (if applicable)
-
-📧 **Contact Email:** *[your-email-here]*
+  
 🔒 Subject Line: `CyberLab Security Disclosure`
 
 Please do **NOT** create a public GitHub issue for security vulnerabilities.
