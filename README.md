@@ -4,19 +4,19 @@
 
 ## 📷 Screenshots
 
-![Screenshot 1]()
+![Screenshot 1](https://github.com/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI/blob/de30c1a1e5d879694080ebb91db3bfe4dd883909/Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/Screenshot%20(88).png)
 
-![Screenshot 2]()
+![Screenshot 2](https://github.com/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI/blob/de30c1a1e5d879694080ebb91db3bfe4dd883909/Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/Screenshot%20(89).png)
 
-![Screenshot 3]()
+![Screenshot 3](https://github.com/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI/blob/de30c1a1e5d879694080ebb91db3bfe4dd883909/Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/Screenshot%20(90).png)
 
-![Screenshot 4]()
+![Screenshot 4](https://github.com/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI/blob/de30c1a1e5d879694080ebb91db3bfe4dd883909/Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/Screenshot%20(92).png)
 
-![Screenshot 5]()
+![Screenshot 5](https://github.com/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI/blob/de30c1a1e5d879694080ebb91db3bfe4dd883909/Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/Screenshot%20(93).png)
 
-![Screenshot 6]()
+![Screenshot 6](https://github.com/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI/blob/de30c1a1e5d879694080ebb91db3bfe4dd883909/Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/Screenshot%20(94).png)
 
-![Screenshot 7]()
+![Screenshot 7](https://github.com/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI/blob/de30c1a1e5d879694080ebb91db3bfe4dd883909/Ransomware%20Simulation%20and%20Defense%20Mechanism/Screenshots/Screenshot%20(95).png)
 
 ## ⚠️ CAUTION & DISCLAIMERS
 
