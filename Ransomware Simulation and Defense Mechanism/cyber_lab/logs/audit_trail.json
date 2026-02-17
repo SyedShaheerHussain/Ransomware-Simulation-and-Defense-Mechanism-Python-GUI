@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-02-17T12:13:18.962371",
+        "user": "SYSTEM",
+        "action": "STARTUP",
+        "details": "CyberLab started.",
+        "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "current_hash": "876ab6be9f9f4caddfb6037ffaf48d8497ce5705fabd26b24e0f2403f05501f3"
+    },
+    {
+        "timestamp": "2026-02-17T14:00:11.581185",
+        "user": "SYSTEM",
+        "action": "STARTUP",
+        "details": "CyberLab started.",
+        "previous_hash": "876ab6be9f9f4caddfb6037ffaf48d8497ce5705fabd26b24e0f2403f05501f3",
+        "current_hash": "34fbcaa18e7dda9925d069ab6481115a80cde7783a03ed00aba761d4cbe0ec3e"
+    }
+]
