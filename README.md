@@ -69,8 +69,6 @@ A defense mechanism is a proactive or reactive security measure taken to protect
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI
-   
-  ```
    cd "Ransomware Simulation and Defense Mechanism"
   ```
 
