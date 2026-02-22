@@ -215,3 +215,21 @@ This project represents a professional-grade simulation tool. In the trending cy
 #CyberSecurity #Ransomware #Python #BlueTeam #RedTeam #Pentesting #Forensics #AI #NeonUI #EduTech #Encryption
 
 _Created with ❤️ for the future defenders of the digital realm._ _**(Syed Shaheer Hussain 2026 ©)**_
+
+## ⭐ Support & Engagement
+
+If you find this repository useful or insightful, please consider:
+
+- ⭐ Starring the repository
+- 🔁 Sharing it within your network
+- 👤 Following my GitHub profile for future projects and updates
+
+Your support helps drive continued innovation and open-source contributions.
+
+— Syed Shaheer Hussain
+
+[![GitHub followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Follow&style=social)](https://github.com/SyedShaheerHussain)
+
+![Followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Followers&color=blue)
+
+![Stars](https://img.shields.io/github/stars/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI?label=Stars&color=yellow)
